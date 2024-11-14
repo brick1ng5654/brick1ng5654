@@ -4,7 +4,7 @@
 
 ⠀
 
-- 🐸 I’m currently learning **Java, C++, React**
+- 🐸 I’m currently learning **Python, C++, Math**
 
 - 🐝 Connect with me **https://t.me/brick1ng5654**
 
